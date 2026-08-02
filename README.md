@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Yadnyesh Khotre
+name: Manisha Auti
 role: Full-Stack Developer
 location: Pune, India
 currently_working_on: Nukaazo - A Hyperlocal E-commerce Platform
@@ -36,7 +36,7 @@ fun_fact: I debug better with coffee ☕
 - 🌱 I'm currently learning **Rust & System Design**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js, Python, Cloud & DevOps**
-- 📫 How to reach me: **yadnyeshkhotre.dev@gmail.com**
+- 📫 How to reach me: **autimanisha680@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code**
 
 <br/>
