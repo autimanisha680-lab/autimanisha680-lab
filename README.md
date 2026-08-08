@@ -25,16 +25,16 @@ name: Manisha Auti
 role: BCA Student (2nd Year)
 location: Pune, India
 currently_working_on: Birthday Surprise - a fun web project
-currently_learning: Web Development (HTML, CSS, C)
-ask_me_about: C, HTML, CSS
+currently_learning: Python & Data Structures and Algorithms (DSA)
+ask_me_about: HTML, CSS, JavaScript, C
 fun_fact: I'm just getting started and I love it!
 ```
 
 - 🎓 I'm a **BCA 2nd Year student** based in **Pune, India**
 - 🔭 I'm currently working on **[Birthday Surprise](https://github.com/autimanisha680-lab/Birthday-Surprise)**
-- 🌱 I'm currently learning **web development & core programming concepts**
+- 🌱 I'm currently learning **Python & Data Structures and Algorithms (DSA)**
 - 👯 I'm looking to collaborate on **beginner-friendly and fun web projects**
-- 💬 Ask me about **C, HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, C**
 - 📫 How to reach me: **autimanisha680@gmail.com**
 
 <br/>
@@ -46,11 +46,14 @@ fun_fact: I'm just getting started and I love it!
 **Languages**
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 **Frontend**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 **Tools**
 
