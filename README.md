@@ -26,7 +26,7 @@ role: BCA Student (2nd Year)
 location: Pune, India
 currently_working_on: Birthday Surprise - a fun web project
 currently_learning: Python & Data Structures and Algorithms (DSA)
-ask_me_about: HTML, CSS, JavaScript, C
+ask_me_about: HTML, CSS, JavaScript, C, SQL
 fun_fact: I'm just getting started and I love it!
 ```
 
@@ -34,7 +34,7 @@ fun_fact: I'm just getting started and I love it!
 - 🔭 I'm currently working on **[Birthday Surprise](https://github.com/autimanisha680-lab/Birthday-Surprise)**
 - 🌱 I'm currently learning **Python & Data Structures and Algorithms (DSA)**
 - 👯 I'm looking to collaborate on **beginner-friendly and fun web projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, C**
+- 💬 Ask me about **HTML, CSS, JavaScript, C, SQL**
 - 📫 How to reach me: **autimanisha680@gmail.com**
 
 <br/>
@@ -54,6 +54,10 @@ fun_fact: I'm just getting started and I love it!
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Database**
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Tools**
 
